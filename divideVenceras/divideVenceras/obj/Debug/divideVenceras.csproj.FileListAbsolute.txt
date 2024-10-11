@@ -1,0 +1,7 @@
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\bin\Debug\divideVenceras.exe.config
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\bin\Debug\divideVenceras.exe
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\bin\Debug\divideVenceras.pdb
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\obj\Debug\divideVenceras.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\obj\Debug\divideVenceras.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\obj\Debug\divideVenceras.exe
+C:\Users\Silvio Mejia\source\repos\divideVenceras\divideVenceras\obj\Debug\divideVenceras.pdb

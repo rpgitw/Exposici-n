@@ -1,0 +1,7 @@
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\obj\Debug\Mergesort Ejemplo.csproj.AssemblyReference.cache
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\obj\Debug\Mergesort Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\bin\Debug\Mergesort Ejemplo.exe.config
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\bin\Debug\Mergesort Ejemplo.exe
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\bin\Debug\Mergesort Ejemplo.pdb
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\obj\Debug\Mergesort Ejemplo.exe
+C:\Users\johal\source\repos\Mergesort Ejemplo\Mergesort Ejemplo\obj\Debug\Mergesort Ejemplo.pdb
